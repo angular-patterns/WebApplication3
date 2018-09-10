@@ -1,0 +1,12 @@
+c:\users\mike\source\repos\WebApplication3\WebApplication3
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=WebApplication3
+--content-root=c:\users\mike\source\repos\WebApplication3\WebApplication3
+--file=c:\users\mike\source\repos\WebApplication3\WebApplication3\Views\Home\About.cshtml
+--file=c:\users\mike\source\repos\WebApplication3\WebApplication3\Views\Home\Contact.cshtml
+--file=c:\users\mike\source\repos\WebApplication3\WebApplication3\Views\Home\Index.cshtml
+--file=c:\users\mike\source\repos\WebApplication3\WebApplication3\Views\Shared\Error.cshtml
+--file=c:\users\mike\source\repos\WebApplication3\WebApplication3\Views\Shared\_Layout.cshtml
+--file=c:\users\mike\source\repos\WebApplication3\WebApplication3\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=c:\users\mike\source\repos\WebApplication3\WebApplication3\Views\_ViewImports.cshtml
+--file=c:\users\mike\source\repos\WebApplication3\WebApplication3\Views\_ViewStart.cshtml
